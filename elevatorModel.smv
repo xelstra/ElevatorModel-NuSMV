@@ -1,4 +1,4 @@
-MODULE main
+MODULE main1
 
 VAR
 floor : {x,y,z};
